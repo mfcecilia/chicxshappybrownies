@@ -16,3 +16,27 @@ header {
 .social-media-links {
     max-width: 75%;
 }
+
+/* unvisited link */
+a:link {
+    text-decoration: none;
+    color: black;
+}
+
+/* visited link */
+a:visited {
+    text-decoration: none;
+    color: black;
+}
+
+/* mouse over link */
+a:hover {
+    text-decoration: none;
+    color: black;
+}
+
+/* selected link */
+a:active {
+    text-decoration: none;
+    color: black;
+}
