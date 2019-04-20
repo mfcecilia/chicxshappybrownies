@@ -5,3 +5,9 @@ body {
 img {
     max-width: 42%;
 }
+
+header {
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+}
